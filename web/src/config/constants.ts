@@ -1,0 +1,1 @@
+export const userServerUrl = 'http://localhost:3333/users'
